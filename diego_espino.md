@@ -78,8 +78,7 @@ Confidentiality obligations remain in effect even after this contract ends.
 1. All software, applications, code, and materials developed by **Diego Espino** under **DFW Software Consulting (DFWSC)** projects are considered **jointly owned intellectual property** of both parties — **DFWSC** and **Diego Espino** — once payment or project compensation is complete.  
 2. Both parties retain full and equal rights to use, modify, host, distribute, or resell the software, either together or independently, without requiring additional permission from the other party.  
 3. **Confidentiality Respect:** When either party uses or resells shared code or applications, they must remove or anonymize any client-specific data, credentials, or confidential material.  
-4. Any pre-existing tools, frameworks, or code created by Diego prior to DFWSC involvement remain his sole property unless explicitly incorporated into a DFWSC project, in which case shared ownership applies only to the integrated portions.  
-5. Both parties agree that this shared-ownership arrangement is designed to promote collaboration and innovation, allowing DFWSC to deploy products commercially and allowing Diego to use the same work in his personal or commercial endeavors.
+4. Both parties agree that this shared-ownership arrangement is designed to promote collaboration and innovation, allowing DFWSC to deploy products commercially and allowing Diego to use the same work in his personal or commercial endeavors.
 
 ---
 
