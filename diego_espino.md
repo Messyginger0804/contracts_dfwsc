@@ -80,7 +80,12 @@ Confidentiality obligations remain in effect even after this contract ends.
 3. **Revenue Sharing:** When either party earns income from the use, licensing, or resale of the jointly owned software, that party agrees to pay **12.5% of the billable hours or gross revenue** derived from that work to the other party within **30 days of receipt**.  
 4. **Confidentiality Respect:** When either party uses or resells shared code or applications, they must remove or anonymize any client-specific data, credentials, or confidential material.  
 5. Any pre-existing tools, frameworks, or code created by Diego prior to DFWSC involvement remain his sole property unless explicitly incorporated into a DFWSC project, in which case shared ownership applies only to the integrated portions.  
-6. Both parties agree that this shared-ownership and revenue-sharing arrangement is designed to promote collaboration and fairness, allowing DFWSC to deploy products commercially and allowing Diego to use the same work in his personal or commercial endeavors while recognizing the shared contribution.
+6. Both parties agree that this shared-ownership and revenue-sharing arrangement is designed to promote collaboration and fairness, allowing DFWSC to deploy products commercially and allowing Diego to use the same work in his personal or commercial endeavors while recognizing the shared contribution.  
+7. **Repository and Access Rights:**  
+   * All source code and project materials will be maintained in repositories owned or managed by **DFWSC**.  
+   * **DFWSC** shall provide the Contractor with the appropriate level of administrative or contributor access required to perform contractual duties.  
+   * Access will be revoked 7 days after termination of this agreement.  
+   * Repository access does not imply additional ownership beyond the shared intellectual-property rights described above, nor may either party use repository credentials to access unrelated client or company data.
 
 ---
 
