@@ -2,16 +2,16 @@
 
 #### Between
 
-**DFW Software Consulting (DFWSC)** (“Company”)
-and
+**DFW Software Consulting (DFWSC)** (“Company”)  
+and  
 **Diego Espino** (“Employee”)
 
 ---
 
 ## 1. Purpose
 
-This agreement outlines the terms of Diego Espino’s employment with DFW Software Consulting (DFWSC).
-Diego is being engaged as a **contract-based employee**, meaning his employment continues as long as DFWSC has active projects and client engagements.
+This agreement outlines the terms of Diego Espino’s employment with DFW Software Consulting (DFWSC).  
+Diego is being engaged as a **contract-based employee**, meaning his employment continues as long as DFWSC has active projects and client engagements.  
 Each new project may include its own specific work agreement or scope, but all fall under this overarching employment contract.
 
 ---
@@ -20,8 +20,8 @@ Each new project may include its own specific work agreement or scope, but all f
 
 This is a **contract-to-contract employment arrangement**.
 
-* Diego Espino will work on projects obtained by DFWSC.
-* When a project ends, his employment continues on standby until the next project is available.
+* Diego Espino will work on projects obtained by DFWSC.  
+* When a project ends, his employment continues on standby until the next project is available.  
 * DFWSC will issue a separate **Project Agreement** for each engagement, outlining the scope, compensation, and timeline.
 
 ---
@@ -30,9 +30,9 @@ This is a **contract-to-contract employment arrangement**.
 
 Diego Espino agrees to:
 
-1. Perform software development, consulting, and technical duties assigned under each project.
-2. Communicate clearly and promptly with project leads, clients, and company representatives.
-3. Follow DFWSC’s coding, documentation, and collaboration standards.
+1. Perform software development, consulting, and technical duties assigned under each project.  
+2. Communicate clearly and promptly with project leads, clients, and company representatives.  
+3. Follow DFWSC’s coding, documentation, and collaboration standards.  
 4. Represent DFWSC professionally in all public and online interactions.
 
 ---
@@ -42,79 +42,76 @@ Diego Espino agrees to:
 As part of his ongoing professional responsibilities, Diego Espino agrees to:
 
 1. **LinkedIn Activity:**
-
    * Maintain a LinkedIn profile listing **“DFW Software Consulting”** as his current place of employment.
-      * Publish **at least one professional LinkedIn post per week** related to software development, technology, or company projects.
-      2. **Community Participation:**
+   * Publish **at least one professional LinkedIn post per week** related to software development, technology, or company projects.
 
-         * Attend **one Dallas Software Developer (DSD) Meetup per month**, either remotely or in person.
-            * Participation is intended for professional development, networking, and maintaining an active presence in the Dallas tech community.
-            3. **Professional Conduct:**
+2. **Community Participation:**
+   * Attend **one Dallas Software Developer (DSD) Meetup per month**, either remotely or in person.
+   * Participation is intended for professional development, networking, and maintaining an active presence in the Dallas tech community.
 
-               * Uphold ethical, respectful, and collaborative behavior in all DFWSC-related work and public communications.
+3. **Professional Conduct:**
+   * Uphold ethical, respectful, and collaborative behavior in all DFWSC-related work and public communications.
 
-               ---
+---
 
-               ## 5. Compensation
+## 5. Compensation
 
-               * Compensation will be determined per project and defined in each **Project Agreement**.
-               * Payments will be made by DFWSC according to the terms of those individual agreements.
-               * This contract does not guarantee a fixed salary between projects.
+* Compensation will be determined per project and defined in each **Project Agreement**.  
+* Payments will be made by DFWSC according to the terms of those individual agreements.  
+* This contract does not guarantee a fixed salary between projects.
 
-               ---
+---
 
-               ## 6. Confidentiality
+## 6. Confidentiality
 
-               Diego agrees to keep all DFWSC and client information confidential, including:
+Diego agrees to keep all DFWSC and client information confidential, including:
 
-               * Source code, project data, designs, and business processes.
-               * Client communications and proprietary tools.
-                 Confidentiality obligations remain in effect even after this contract ends.
+* Source code, project data, designs, and business processes.  
+* Client communications and proprietary tools.  
 
-                 ---
+Confidentiality obligations remain in effect even after this contract ends.
 
-                 ## 7. Intellectual Property
+---
 
-                 1. All software, applications, code, and materials created by **Diego Espino** under **DFW Software Consulting (DFWSC)** projects are the **exclusive property of DFW Software Consulting (DFWSC)** once payment or project compensation is complete.  
-                 2. This includes all **SaaS platforms, web applications, or proprietary systems** developed for DFWSC or its clients.  
-                 3. **Mutual Usage Rights:**  
-                    * DFWSC retains the right to use, modify, and deploy any applications, code, or assets created by Diego — even if those applications are later used or published outside of DFWSC.  
-                       * Likewise, Diego retains the right to use, build upon, and deploy any applications, code, or assets he has developed — including those initially created for DFWSC — for his own personal, educational, or commercial projects outside of DFWSC, as long as such use does not disclose confidential client information or represent DFWSC without consent.  
-                       4. Diego may not **resell, replicate, or license** any DFWSC-branded software, product, or platform to third parties without **written consent or a formal licensing agreement** from DFWSC.  
-                       5. Pre-existing tools, code libraries, or resources developed independently by Diego prior to this agreement remain his personal property, unless integrated into a DFWSC project — in which case DFWSC will hold a **non-exclusive license** for internal or client use.
+## 7. Intellectual Property
 
-                       ---
+1. All software, applications, code, and materials developed by **Diego Espino** under **DFW Software Consulting (DFWSC)** projects are considered **jointly owned intellectual property** of both parties — **DFWSC** and **Diego Espino** — once payment or project compensation is complete.  
+2. Both parties retain full and equal rights to use, modify, host, distribute, or resell the software, either together or independently, without requiring additional permission from the other party.  
+3. **Confidentiality Respect:** When either party uses or resells shared code or applications, they must remove or anonymize any client-specific data, credentials, or confidential material.  
+4. Any pre-existing tools, frameworks, or code created by Diego prior to DFWSC involvement remain his sole property unless explicitly incorporated into a DFWSC project, in which case shared ownership applies only to the integrated portions.  
+5. Both parties agree that this shared-ownership arrangement is designed to promote collaboration and innovation, allowing DFWSC to deploy products commercially and allowing Diego to use the same work in his personal or commercial endeavors.
 
-                       ## 8. Term and Termination
+---
 
-                       This agreement begins on **[start date]** and continues until terminated.
-                       Either party may terminate this employment with **14 days’ written notice**.
-                       Outstanding payments for completed work will be settled according to the project agreements.
+## 8. Term and Termination
 
-                       ---
+This agreement begins on **[start date]** and continues until terminated.  
+Either party may terminate this employment with **14 days’ written notice**.  
+Outstanding payments for completed work will be settled according to the project agreements.
 
-                       ## 9. Independent Status
+---
 
-                       This contract does not create a full-time employee relationship for tax or benefits purposes.
-                       Diego will receive payments as an **independent contractor employee** under DFWSC’s structure, and is responsible for his own taxes and insurance.
+## 9. Independent Status
 
-                       ---
+This contract does not create a full-time employee relationship for tax or benefits purposes.  
+Diego will receive payments as an **independent contractor employee** under DFWSC’s structure, and is responsible for his own taxes and insurance.
 
-                       ## 10. Governing Law
+---
 
-                       This agreement is governed by and interpreted in accordance with the laws of the **State of Texas**.
+## 10. Governing Law
 
-                       ---
+This agreement is governed by and interpreted in accordance with the laws of the **State of Texas**.
 
-                       ## 11. Signatures
+---
 
-                       **For DFW Software Consulting (DFWSC):**
-                       Name: ___________________________
-                       Title: ___________________________
-                       Signature: _______________________
-                       Date: ___________________________
+## 11. Signatures
 
-                       **Employee – Diego Espino:**
-                       Signature: _______________________
-                       Date: ___________________________
-                       
+**For DFW Software Consulting (DFWSC):**  
+Name: ___________________________  
+Title: ___________________________  
+Signature: _______________________  
+Date: ___________________________  
+
+**Employee – Diego Espino:**  
+Signature: _______________________  
+Date: ___________________________
