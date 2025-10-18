@@ -2,7 +2,7 @@
 
 #### Between
 
-**DFW Software Consulting (DFWSC)** (“Company”)  
+**DFW Software Consulting, DFWSC LLC (DFWSC)** (“Company”)  
 and  
 **Diego Espino** (“Employee”)
 
