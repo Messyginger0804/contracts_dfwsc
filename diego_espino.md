@@ -1,27 +1,27 @@
-# **Contract-to-Contract Employment Agreement**
+# **Contract-to-Contract Independent Contractor Agreement**
 
 #### Between
 
 **DFW Software Consulting, DFWSC LLC (DFWSC)** (“Company”)  
 and  
-**Diego Espino** (“Employee”)
+**Diego Espino** (“Contractor”)
 
 ---
 
 ## 1. Purpose
 
-This agreement outlines the terms of Diego Espino’s employment with DFW Software Consulting (DFWSC).  
-Diego is being engaged as a **contract-based employee**, meaning his employment continues as long as DFWSC has active projects and client engagements.  
-Each new project may include its own specific work agreement or scope, but all fall under this overarching employment contract.
+This agreement outlines the terms of Diego Espino’s engagement with DFW Software Consulting (DFWSC).  
+Diego is being engaged as an **independent contractor**, meaning his work continues as long as DFWSC has active projects and client engagements.  
+Each new project may include its own specific work agreement or scope, but all fall under this overarching contractor agreement.
 
 ---
 
-## 2. Employment Type
+## 2. Engagement Type
 
-This is a **contract-to-contract employment arrangement**.
+This is a **contract-to-contract arrangement**.
 
-* Diego Espino will work on projects obtained by DFWSC.  
-* When a project ends, his employment continues on standby until the next project is available.  
+* Diego Espino will perform contracted work on projects obtained by DFWSC.  
+* When a project ends, his status continues on standby until the next project is available.  
 * DFWSC will issue a separate **Project Agreement** for each engagement, outlining the scope, compensation, and timeline.
 
 ---
@@ -42,7 +42,7 @@ Diego Espino agrees to:
 As part of his ongoing professional responsibilities, Diego Espino agrees to:
 
 1. **LinkedIn Activity:**
-   * Maintain a LinkedIn profile listing **“DFW Software Consulting”** as his current place of employment.
+   * Maintain a LinkedIn profile listing **“DFW Software Consulting”** as his current contracting affiliation.
    * Publish **at least one professional LinkedIn post per week** related to software development, technology, or company projects.
 
 2. **Community Participation:**
@@ -58,7 +58,7 @@ As part of his ongoing professional responsibilities, Diego Espino agrees to:
 
 * Compensation will be determined per project and defined in each **Project Agreement**.  
 * Payments will be made by DFWSC according to the terms of those individual agreements.  
-* This contract does not guarantee a fixed salary between projects.
+* This contract does not guarantee a fixed salary or continuous work between projects.
 
 ---
 
@@ -75,25 +75,29 @@ Confidentiality obligations remain in effect even after this contract ends.
 
 ## 7. Intellectual Property
 
-1. All software, applications, code, and materials developed by **Diego Espino** under **DFW Software Consulting (DFWSC)** projects are considered **jointly owned intellectual property** of both parties — **DFWSC** and **Diego Espino**.  
-2. Both parties retain full and equal rights to use, modify, host, distribute, or resell the software, either together or independently, with 12.5% of billable hours paid to opposing party.  
-3. **Confidentiality Respect:** When either party uses or resells shared code or applications, they must remove or anonymize any client-specific data, credentials, or confidential material.
-4. Both parties agree that this shared-ownership arrangement is designed to promote collaboration and innovation, allowing DFWSC to deploy products commercially and allowing Diego to use the same work in his personal or commercial endeavors.
+1. Software, applications, code, and materials developed by **Diego Espino** under **DFW Software Consulting (DFWSC)** projects are considered **jointly owned intellectual property** of both parties — **DFWSC** and **Diego Espino**.  
+2. Both parties retain full and equal rights to use, modify, host, distribute, or resell the software, either together or independently, under a shared revenue arrangement. This revenue sharing applies by default unless otherwise specified and agreed upon in a separate individual project contract.  
+3. **Revenue Sharing:** When either party earns income from the use, licensing, or resale of the jointly owned software, that party agrees to pay **12.5% of the billable hours or gross revenue** derived from that work to the other party within **30 days of receipt**.  
+4. **Confidentiality Respect:** When either party uses or resells shared code or applications, they must remove or anonymize any client-specific data, credentials, or confidential material.  
+5. Any pre-existing tools, frameworks, or code created by Diego prior to DFWSC involvement remain his sole property unless explicitly incorporated into a DFWSC project, in which case shared ownership applies only to the integrated portions.  
+6. Both parties agree that this shared-ownership and revenue-sharing arrangement is designed to promote collaboration and fairness, allowing DFWSC to deploy products commercially and allowing Diego to use the same work in his personal or commercial endeavors while recognizing the shared contribution.
 
 ---
 
 ## 8. Term and Termination
 
 This agreement begins on **[start date]** and continues until terminated.  
-Either party may terminate this employment with **14 days’ written notice**.  
+Either party may terminate this agreement with **14 days’ written notice**.  
 Outstanding payments for completed work will be settled according to the project agreements.
 
 ---
 
-## 9. Independent Status
+## 9. Independent Contractor Status
 
-This contract does not create a full-time employee relationship for tax or benefits purposes.  
-Diego will receive payments as an **independent contractor employee** under DFWSC’s structure, and is responsible for his own taxes and insurance.
+This contract does not create an employer–employee relationship for tax or benefits purposes.  
+Diego Espino is engaged as an **independent contractor**, responsible for his own taxes, insurance, and business expenses.  
+DFWSC will not withhold taxes or provide employee benefits.  
+Nothing in this agreement shall be construed to create a partnership, joint venture, or employment relationship between the parties.
 
 ---
 
@@ -111,6 +115,6 @@ Title: ___________________________
 Signature: _______________________  
 Date: ___________________________  
 
-**Employee – Diego Espino:**  
+**Contractor – Diego Espino:**  
 Signature: _______________________  
 Date: ___________________________
