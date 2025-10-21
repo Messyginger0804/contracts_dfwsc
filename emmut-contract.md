@@ -65,11 +65,8 @@ This agreement is **output-based**, not hourly.
 
 ---
 
-## 6. Ownership & Confidentiality
-
-1. All work created under this project is the **intellectual property of DFW Software Consulting (DFWSC)** and/or its client (**Emmut Properties LLC**).  
-2. Diego may not reuse, resell, or disclose project materials or code outside of DFWSC projects.  
-3. Confidentiality remains in effect after this agreement’s termination.
+## 6. Confidentiality
+1. Confidentiality remains in effect after this agreement’s termination.
 
 ---
 
