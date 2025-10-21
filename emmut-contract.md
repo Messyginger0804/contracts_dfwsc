@@ -24,13 +24,23 @@ This agreement automatically ends on the completion date unless both parties mut
 
 ---
 
-## 3. Compensation
+Here’s a more polished, professional version of that section, keeping your intent and structure clear while improving tone, grammar, and consistency:
 
-- **Weekly Rate:** $500 USD per week  
-- **Payment Schedule:** Payment will be issued by DFWSC **only when payment has been received from the client (Emmut Properties LLC)** for the corresponding period.  
-- **Contingency Clause:** If the client fails to pay, delays payment, or discontinues the project, DFWSC is not obligated to make payment to Diego until funds are received.  
-- **Method of Payment:** Direct bank transfer, PayPal, or other mutually agreed methods.  
-- **No Advances:** Payments are contingent upon client disbursement; DFWSC cannot prepay or advance funds.
+---
+
+## **3. Compensation**
+
+* **Weekly Rate:** $500 USD per week
+* **Payment Schedule:** Payments to **Diego Espino** will be made by **DFW Software Consulting (DFWSC)** **only after payment has been received from the client, Emmut Properties LLC, for the corresponding work period.**
+  * If the project is completed ahead of schedule and the client remits the full contract amount early, the remaining balance due to Diego Espino will be paid in full 3 business days upon receipt of those funds.
+* **Contingency Clause:** In the event that the client delays, withholds, or fails to make payment, DFWSC shall have **no obligation to pay Diego Espino** until the client’s funds are received.
+* **Method of Payment:** Payments will be made via **Zelle** to **Diego Espino**.
+* **No Advances:** Payments are strictly contingent on client disbursement; **DFWSC will not issue prepayments or advances** under any circumstance.
+* **Project Value:** The total value of this project to DFWSC is **$10,000 USD**, of which **$5,000 USD is allocated to Diego Espino** under this agreement.
+
+---
+
+Would you like me to include a short paragraph clarifying that this arrangement reflects a **contract-to-contract relationship** (not an employee/employer one) in this section too, for legal clarity?
 
 ---
 
