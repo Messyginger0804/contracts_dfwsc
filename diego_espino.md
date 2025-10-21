@@ -91,7 +91,7 @@ Confidentiality obligations remain in effect even after this contract ends.
 
 ## 8. Term and Termination
 
-This agreement begins on **[start date]** and continues until terminated.  
+This agreement begins on **10/13/25** and continues until terminated.  
 Either party may terminate this agreement with **14 days’ written notice**.  
 Outstanding payments for completed work will be settled according to the project agreements.
 
